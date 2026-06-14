@@ -160,7 +160,7 @@ netflix-churn-analysis/
 - Subscription × engagement cross analysis
 - Binge vs non-binge watcher churn
 
-Full queries with results and business insights available in [`reports/Netflix_Churn_SQL_Analysis.pdf`](reports/Netflix_Churn_SQL_Analysis.docx)
+Full queries with results and business insights available in [`reports/Netflix_Churn_SQL_Analysis.pdf`](reports/Netflix_Churn_SQL_Analysis.pdf)
 
 ---
 
